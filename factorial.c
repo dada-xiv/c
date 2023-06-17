@@ -1,3 +1,7 @@
+/* 
+ *  Factorial function n!
+ */
+
 #include <stdio.h>
 
 int main(void){
