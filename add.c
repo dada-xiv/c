@@ -1,6 +1,5 @@
 /* 
- * 01. Types, Operators and Expressions
- * Read two numbers and retun the sum of them
+ * Read two numbers from keyboard and retun the sum of them
  */
 
 #include <stdio.h>
